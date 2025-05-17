@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154616936348",
+    "project_id": "dsatracker-df368",
+    "storage_bucket": "dsatracker-df368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154616936348:android:c3ad1d271a8b4d3370fa59",
+        "android_client_info": {
+          "package_name": "com.example.dsa_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAoQ9ToTN9Ejhej0OUUTJTY__Eh2VX8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
